@@ -1,4 +1,4 @@
-# 飞机大战
+# 飞机大战:airplane:
 ## 开发技术
 Python+Pygame
 ## 开发工具
